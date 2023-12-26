@@ -1,0 +1,10 @@
+{
+  "name": "tmpppp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^13.6.1",
+    "cypress-image-diff-js": "2.1.3"
+  }
+}
